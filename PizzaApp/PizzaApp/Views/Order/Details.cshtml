@@ -1,0 +1,12 @@
+﻿@model OrderDetailsViewModel
+
+<h2>@ViewBag.Title by user: @ViewBag.User.FirstName</h2>
+@*<p>@Model.UserFullName ordered @Model.PizzaName. @Model.UserFullName paid @Model.Price by @Model.PaymentMethod</p>*@
+
+<partial name="~/Views/Shared/Partials/_OrderDetailsPartial.cshtml" for="@Model" />
+
+@*========= HTML HELPER =======*@
+html: @Html.ActionLink("Back to Orders page", "Index")
+
+@*========= TAG HELPER =======*@
+tag: <a asp-controller="Home" asp-action="Index">Back to home page</a>

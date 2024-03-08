@@ -1,0 +1,93 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = PizzaApp
+build_property.RootNamespace = PizzaApp
+build_property.ProjectDir = C:\Users\Ljupce\Desktop\Akademija SEDC\Projects\Projects\Back-End\ASP.NET MVC\Pizza App\PizzaApp\PizzaApp\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\Ljupce\Desktop\Akademija SEDC\Projects\Projects\Back-End\ASP.NET MVC\Pizza App\PizzaApp\PizzaApp
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/Ljupce/Desktop/Akademija SEDC/Projects/Projects/Back-End/ASP.NET MVC/Pizza App/PizzaApp/PizzaApp/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ljupce/Desktop/Akademija SEDC/Projects/Projects/Back-End/ASP.NET MVC/Pizza App/PizzaApp/PizzaApp/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ljupce/Desktop/Akademija SEDC/Projects/Projects/Back-End/ASP.NET MVC/Pizza App/PizzaApp/PizzaApp/Views/Order/CreateOrder.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJcQ3JlYXRlT3JkZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ljupce/Desktop/Akademija SEDC/Projects/Projects/Back-End/ASP.NET MVC/Pizza App/PizzaApp/PizzaApp/Views/Order/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ljupce/Desktop/Akademija SEDC/Projects/Projects/Back-End/ASP.NET MVC/Pizza App/PizzaApp/PizzaApp/Views/Order/EditOrder.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJcRWRpdE9yZGVyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ljupce/Desktop/Akademija SEDC/Projects/Projects/Back-End/ASP.NET MVC/Pizza App/PizzaApp/PizzaApp/Views/Order/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ljupce/Desktop/Akademija SEDC/Projects/Projects/Back-End/ASP.NET MVC/Pizza App/PizzaApp/PizzaApp/Views/Pizza/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGl6emFcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ljupce/Desktop/Akademija SEDC/Projects/Projects/Back-End/ASP.NET MVC/Pizza App/PizzaApp/PizzaApp/Views/Pizza/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGl6emFcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ljupce/Desktop/Akademija SEDC/Projects/Projects/Back-End/ASP.NET MVC/Pizza App/PizzaApp/PizzaApp/Views/Pizza/GetAllPizzas.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGl6emFcR2V0QWxsUGl6emFzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ljupce/Desktop/Akademija SEDC/Projects/Projects/Back-End/ASP.NET MVC/Pizza App/PizzaApp/PizzaApp/Views/Pizza/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGl6emFcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ljupce/Desktop/Akademija SEDC/Projects/Projects/Back-End/ASP.NET MVC/Pizza App/PizzaApp/PizzaApp/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ljupce/Desktop/Akademija SEDC/Projects/Projects/Back-End/ASP.NET MVC/Pizza App/PizzaApp/PizzaApp/Views/Shared/Partials/_OrderDetailsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFBhcnRpYWxzXF9PcmRlckRldGFpbHNQYXJ0aWFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ljupce/Desktop/Akademija SEDC/Projects/Projects/Back-End/ASP.NET MVC/Pizza App/PizzaApp/PizzaApp/Views/Shared/Partials/_PizzaGreeting.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFBhcnRpYWxzXF9QaXp6YUdyZWV0aW5nLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ljupce/Desktop/Akademija SEDC/Projects/Projects/Back-End/ASP.NET MVC/Pizza App/PizzaApp/PizzaApp/Views/Shared/ResourceNotFound.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFJlc291cmNlTm90Rm91bmQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ljupce/Desktop/Akademija SEDC/Projects/Projects/Back-End/ASP.NET MVC/Pizza App/PizzaApp/PizzaApp/Views/Shared/_LayoutG5.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRHNS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ljupce/Desktop/Akademija SEDC/Projects/Projects/Back-End/ASP.NET MVC/Pizza App/PizzaApp/PizzaApp/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ljupce/Desktop/Akademija SEDC/Projects/Projects/Back-End/ASP.NET MVC/Pizza App/PizzaApp/PizzaApp/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ljupce/Desktop/Akademija SEDC/Projects/Projects/Back-End/ASP.NET MVC/Pizza App/PizzaApp/PizzaApp/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ljupce/Desktop/Akademija SEDC/Projects/Projects/Back-End/ASP.NET MVC/Pizza App/PizzaApp/PizzaApp/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-esrhztwmlc

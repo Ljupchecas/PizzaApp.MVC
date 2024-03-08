@@ -1,0 +1,44 @@
+﻿@model OrderDetailsViewModel
+
+<div class="text-center">
+    <h2 class="display-4">Order Details</h2>
+</div>
+
+<div class="card">
+    <a asp-controller="Order" asp-action="AddPizza" asp-route-id="@Model.Id">Add Pizza</a>
+    <div class="card-body">
+
+        <h5 class="card-title">
+            User: @Model.UserFullName
+        </h5>
+
+        <p class="card-text">
+            Payment Method @Model.PaymentMethod | @Model.Price MKD
+        </p>
+
+        <div class="row">
+
+            <div>Pizzas:</div>
+            <br />
+            <br />
+            @foreach(var pizza in Model.PizzaNames)
+            {
+                <div class="card" style="width: 18rem; margin-left: 15px;">
+                    <img class="card-img-top" src="https://www.biggerbolderbaking.com/wp-content/uploads/2022/05/Frozen-Pizza-Thumbnail1-1-scaled.jpg" alt="Card image caption">
+
+                    @*<img src="/images/Pizza.jpg" class="card-img-top" alt="Card image caption">*@
+
+                    <div class="card-body">
+                        <h3 class="text-center">@pizza</h3>
+                    </div>
+                </div>
+            }
+
+        </div>
+
+    </div>
+</div>
+<br />
+<div>
+    <a asp-controller="Order" asp-action="Index">Back to orders</a>
+</div>

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "NbrvRdrLZiENI+67j7twbMnSXV8K61Ks+GJ2KpRsRtq5+5T5ffR4qHBIoDTBsKfvM51hkkfZNGF0wQYlEgHFEg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ljupce\\Desktop\\Akademija SEDC\\Projects\\Projects\\Back-End\\ASP.NET MVC\\Pizza App\\PizzaAppRefactored\\PizzaAppRefactored.ViewModels\\PizzaAppRefactored.ViewModels.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ljupce\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0\\microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
+    "C:\\Users\\Ljupce\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
